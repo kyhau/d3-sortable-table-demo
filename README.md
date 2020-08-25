@@ -3,7 +3,7 @@ Example of displaying data in a Sortable Table using [D3.js](https://d3js.org/)
 
 ## Demo
 
-[https://kyhau.github.io/d3-sortable-table-demo/network_directed_graph.html](https://kyhau.github.io/d3-sortable-table-demo/index.html)
+[https://kyhau.github.io/d3-sortable-table-demo/](https://kyhau.github.io/d3-sortable-table-demo/index.html)
 
 ## Run locally
 
