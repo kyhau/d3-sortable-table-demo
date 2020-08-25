@@ -1,0 +1,7 @@
+AccountId, SubnetId, AvailabilityZone, CidrBlock, UsableAddressCount, UsedAddressCount, AvailableIpAddressCount
+111122223333, subnet-11111111, ap-southeast-2c, 172.31.0.0/20, 4091, 10, 4081
+111122223333, subnet-22222222, ap-southeast-2a, 172.31.16.0/20, 4091, 0, 4091
+111122223333, subnet-33333333, ap-southeast-2b, 172.31.32.0/20, 4091, 20, 4071
+123456789012, subnet-44444444, ap-southeast-2a, 172.31.0.0/20, 4091, 10, 4081
+123456789012, subnet-55555555, ap-southeast-2c, 172.31.16.0/20, 4091, 1, 4090
+123456789012, subnet-66666666, ap-southeast-2b, 172.31.32.0/20, 4091, 10, 4081
